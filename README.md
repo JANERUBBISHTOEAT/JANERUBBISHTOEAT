@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <br/>
     <p>从 2022/10/04 开始统计的访问量：</p>
     <a href="https://github.com/JANERUBBISHTOEAT">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=JANERUBBISHTOEAT.visitor-badge&left_text=My%20Page%20Visitors" />
+      <img src="https://visitor-badge.glitch.me/badge?page_id=JANERUBBISHTOEAT.visitor-badge&left_text=My%20Page%20Visitors" alt="访问量太少了显示不出来"/>
     </a>
   </div>
   <!-- [![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JANERUBBISHTOEAT.visitor-badge&left_text=My%20Page%20Visitors)](https://github.com/JANERUBBISHTOEAT) -->
