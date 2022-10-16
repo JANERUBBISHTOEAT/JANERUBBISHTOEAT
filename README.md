@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <div align="center">
   <div>
     <a href="https://github.com/JANERUBBISHTOEAT">
-      <img align="left" src="https://streak-stats.demolab.com/?user=JANERUBBISHTOEAT&theme=vue" />
+      <img align="left" src="https://streak-stats.demolab.com/?user=JANERUBBISHTOEAT&theme=vue&count_private=true" />
     </a>
     <a href="https://github.com/JANERUBBISHTOEAT">
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANERUBBISHTOEAT&layout=compact" />
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <br/>
   <div>
     <p>一些勋章：</p>
-    <img src="https://github-profile-trophy.vercel.app/?username=JANERUBBISHTOEAT&theme=flat&no-frame=true&margin-w=30" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JANERUBBISHTOEAT&theme=flat&no-frame=true&margin-w=30&count_private=true" />
     <!-- <img height="100px" align="left" src="https://github-profile-trophy.vercel.app/?username=JANERUBBISHTOEAT&theme=onedark" /> -->
   </div>
 </div>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/JANERUBBISHTOEAT">
-    <img src="https://activity-graph.herokuapp.com/graph?username=JANERUBBISHTOEAT&theme=github-light" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=JANERUBBISHTOEAT&theme=github-light&count_private=true" />
   </a>
 </div>
 
