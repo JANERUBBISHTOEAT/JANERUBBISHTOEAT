@@ -36,9 +36,9 @@ Here are some ideas to get you started:
     <a href="https://github.com/JANERUBBISHTOEAT">
       <img align="left" src="https://streak-stats.demolab.com/?user=JANERUBBISHTOEAT&theme=vue&count_private=true" />
     </a>
-    <a href="https://github.com/JANERUBBISHTOEAT">
+    <!-- <a href="https://github.com/JANERUBBISHTOEAT">
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANERUBBISHTOEAT&layout=compact" />
-    </a>
+    </a> -->
     <p>凑数用的标签：</p>
     <img src="https://img.shields.io/badge/dynamic/json?color=41b883&label=GitHub&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DJANERUBBISHTOEAT" />
     <br/>
@@ -62,9 +62,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JANERUBBISHTOEAT&layout=compact" />
     <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JANERUBBISHTOEAT" /> -->
     <p>一周内语言使用：</p>
-    <figure>
-      <embed src="https://wakatime.com/share/@JANERUBBISHTOEAT/5659586d-add4-401c-b415-d46437f2d7d9.svg"></embed>
-    </figure>
+    <figure><embed src="https://wakatime.com/share/@JANERUBBISHTOEAT/5659586d-add4-401c-b415-d46437f2d7d9.svg"></embed></figure>
   </div>
   <br/>
   <div>
