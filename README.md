@@ -61,6 +61,10 @@ Here are some ideas to get you started:
     <p>本周编程时间：</p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JANERUBBISHTOEAT&layout=compact" />
     <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JANERUBBISHTOEAT" /> -->
+    <p>一周内语言使用：</p>
+    <figure>
+      <embed src="https://wakatime.com/share/@JANERUBBISHTOEAT/5659586d-add4-401c-b415-d46437f2d7d9.svg"></embed>
+    </figure>
   </div>
   <br/>
   <div>
@@ -82,7 +86,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JANERUBBISHTOEAT&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=JANERUBBISHTOEAT&theme=vue)](https://git.io/streak-stats) -->
@@ -91,4 +94,4 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANERUBBISHTOEAT&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-----
+---
