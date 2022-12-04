@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <p>本周编程时间：</p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JANERUBBISHTOEAT&layout=compact" />
     <p>一周内语言使用：</p>
-    <figure><embed src="https://wakatime.com/share/@JANERUBBISHTOEAT/5659586d-add4-401c-b415-d46437f2d7d9.svg"></embed></figure>
+    <a href="https://github.com/JANERUBBISHTOEAT"><img src="https://wakatime.com/share/@JANERUBBISHTOEAT/c5013d43-d596-461b-b2b5-1cb8ed29b428.png" /></a>
   </div>
   <br/>
   <div>
