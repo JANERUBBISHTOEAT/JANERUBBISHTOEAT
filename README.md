@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 >Fifth Line
 
-----
+---
 
 <div align="center">
   <div>
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   
 <br/>
 
-----
+---
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=JANERUBBISHTOEAT&theme=onedark)](https://github.com/JANERUBBISHTOEAT) -->
 
-----
+---
 
 <div>
   <a href="https://github.com/JANERUBBISHTOEAT">
