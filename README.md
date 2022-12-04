@@ -48,7 +48,6 @@ Here are some ideas to get you started:
       <img src="https://visitor-badge.glitch.me/badge?page_id=JANERUBBISHTOEAT.visitor-badge&left_text=My%20Page%20Visitors" alt="访问量太少了显示不出来"/>
     </a>
   </div>
-  <!-- [![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JANERUBBISHTOEAT.visitor-badge&left_text=My%20Page%20Visitors)](https://github.com/JANERUBBISHTOEAT) -->
 </div>
   
 <br/>
@@ -60,7 +59,6 @@ Here are some ideas to get you started:
   <div>
     <p>本周编程时间：</p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JANERUBBISHTOEAT&layout=compact" />
-    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JANERUBBISHTOEAT" /> -->
     <p>一周内语言使用：</p>
     <figure><embed src="https://wakatime.com/share/@JANERUBBISHTOEAT/5659586d-add4-401c-b415-d46437f2d7d9.svg"></embed></figure>
   </div>
@@ -68,13 +66,8 @@ Here are some ideas to get you started:
   <div>
     <p>一些勋章：</p>
     <img src="https://github-profile-trophy.vercel.app/?username=JANERUBBISHTOEAT&theme=flat&no-frame=true&margin-w=30&count_private=true" />
-    <!-- <img height="100px" align="left" src="https://github-profile-trophy.vercel.app/?username=JANERUBBISHTOEAT&theme=onedark" /> -->
   </div>
 </div>
-
-<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JANERUBBISHTOEAT)](https://github.com/JANERUBBISHTOEAT)
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=JANERUBBISHTOEAT&theme=onedark)](https://github.com/JANERUBBISHTOEAT) -->
 
 ---
 
@@ -82,14 +75,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/JANERUBBISHTOEAT">
     <img src="https://activity-graph.herokuapp.com/graph?username=JANERUBBISHTOEAT&theme=github-light&count_private=true" />
   </a>
+  
 </div>
-
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JANERUBBISHTOEAT&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=JANERUBBISHTOEAT&theme=vue)](https://git.io/streak-stats) -->
-
-<!-- [![github activity graph](https://activity-graph.herokuapp.com/graph?username=JANERUBBISHTOEAT&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANERUBBISHTOEAT&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
