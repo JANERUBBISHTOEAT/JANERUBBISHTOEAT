@@ -19,15 +19,15 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=JANERUBBISHTOEAT&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ef8539" />
 </a>
 
->First Line
+> Zheyuan Wei
 
->Second Line
+> 🇨🇳 Hangzhou -> 🇨🇦 Toronto
 
->Third Line
+> UofT B.S.c. CS Specialist
 
->Fourth Line
+>	Hangzhou High School
 
->Fifth Line
+> *-- Yours to Discover*
 
 ---
 
