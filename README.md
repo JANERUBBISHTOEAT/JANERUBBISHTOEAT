@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 > 🇨🇳 Hangzhou -> 🇨🇦 Toronto
 
-> UofT B.S.c. CS Specialist
+> UofT B.Sc CS Specialist
 
 >	Hangzhou High School
 
