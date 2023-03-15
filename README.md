@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 > UofT B.Sc CS Specialist
 
->	Hangzhou High School
+> Hangzhou High School
 
 > *-- Yours to Discover*
 
@@ -36,9 +36,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/JANERUBBISHTOEAT">
       <img align="left" src="https://streak-stats.demolab.com/?user=JANERUBBISHTOEAT&theme=vue&count_private=true" />
     </a>
-    <!-- <a href="https://github.com/JANERUBBISHTOEAT">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANERUBBISHTOEAT&layout=compact" />
-    </a> -->
     <p>凑数用的标签：</p>
     <img src="https://img.shields.io/badge/dynamic/json?color=41b883&label=GitHub&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DJANERUBBISHTOEAT" />
     <br/>
@@ -73,7 +70,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/JANERUBBISHTOEAT">
-    <img src="https://activity-graph.herokuapp.com/graph?username=JANERUBBISHTOEAT&theme=github-light&count_private=true" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JANERUBBISHTOEAT&theme=minimal" />
   </a>
   
 </div>
