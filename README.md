@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 <div align="center">
 
   <div>
-    <p>本周编程时间：</p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JANERUBBISHTOEAT&layout=compact" />
+    <p>常用语言：</p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janerubbishtoeat&layout=compact" />
     <p>一周内语言使用：</p>
-    <a href="https://github.com/JANERUBBISHTOEAT"><img src="https://wakatime.com/share/@JANERUBBISHTOEAT/c5013d43-d596-461b-b2b5-1cb8ed29b428.png" /></a>
+    <a href="https://github.com/JANERUBBISHTOEAT"><img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/c5013d43-d596-461b-b2b5-1cb8ed29b428.png" /></a>
   </div>
   <br/>
   <div>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/JANERUBBISHTOEAT">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JANERUBBISHTOEAT&theme=minimal" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JANERUBBISHTOEAT&theme=minimal" />
   </a>
   
 </div>
