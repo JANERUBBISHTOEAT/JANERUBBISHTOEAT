@@ -40,11 +40,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/dynamic/json?color=41b883&label=GitHub&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DJANERUBBISHTOEAT" />
     <br/>
     <br/>
-    <p>从 2022/10/04 开始统计的访问量：</p>
-    <a href="https://github.com/JANERUBBISHTOEAT">
+<!--     <p>从 2022/10/04 开始统计的访问量：</p> -->
 <!--       <img src="https://visitor-badge.glitch.me/badge?page_id=JANERUBBISHTOEAT.visitor-badge&left_text=My%20Page%20Visitors" alt="访问量太少了显示不出来"/> -->
-      <a href="https://visitorbadge.io/status?path=JANERUBBISHTOEAT"><img src="https://api.visitorbadge.io/api/visitors?path=JANERUBBISHTOEAT&label=My%20Page%20Visitors&countColor=%2337d67a&style=flat&labelStyle=none" alt="访问量太少了显示不出来"/></a>
-    </a>
+    <p>从 2023/10/14 开始统计的访问量：</p>
+    <a href="https://visitorbadge.io/status?path=JANERUBBISHTOEAT"><img src="https://api.visitorbadge.io/api/visitors?path=JANERUBBISHTOEAT&label=My%20Page%20Visitors&countColor=%2337d67a&style=flat&labelStyle=none" alt="访问量太少了显示不出来"/></a>
   </div>
 </div>
   
