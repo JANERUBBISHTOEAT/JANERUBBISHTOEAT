@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <p>从 2022/10/04 开始统计的访问量：</p>
     <a href="https://github.com/JANERUBBISHTOEAT">
 <!--       <img src="https://visitor-badge.glitch.me/badge?page_id=JANERUBBISHTOEAT.visitor-badge&left_text=My%20Page%20Visitors" alt="访问量太少了显示不出来"/> -->
-      <a href="https://visitorbadge.io/status?path=JANERUBBISHTOEAT"><img src="https://api.visitorbadge.io/api/visitors?path=JANERUBBISHTOEAT&label=My%20Page%20Visitors&countColor=%2337d67a&style=plastic&labelStyle=none" alt="访问量太少了显示不出来"/></a>
+      <a href="https://visitorbadge.io/status?path=JANERUBBISHTOEAT"><img src="https://api.visitorbadge.io/api/visitors?path=JANERUBBISHTOEAT&label=My%20Page%20Visitors&countColor=%2337d67a&style=flat&labelStyle=none" alt="访问量太少了显示不出来"/></a>
     </a>
   </div>
 </div>
