@@ -40,8 +40,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/dynamic/json?color=41b883&label=GitHub&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DJANERUBBISHTOEAT" />
     <br/>
     <br/>
-<!--     <p>从 2022/10/04 开始统计的访问量：</p> -->
-<!--       <img src="https://visitor-badge.glitch.me/badge?page_id=JANERUBBISHTOEAT.visitor-badge&left_text=My%20Page%20Visitors" alt="访问量太少了显示不出来"/> -->
     <p>从 2023/10/14 开始统计的访问量：</p>
     <a href="https://visitorbadge.io/status?path=JANERUBBISHTOEAT"><img src="https://api.visitorbadge.io/api/visitors?path=JANERUBBISHTOEAT&label=My%20Page%20Visitors&countColor=%2337d67a&style=flat&labelStyle=none" alt="访问量太少了显示不出来"/></a>
   </div>
@@ -57,7 +55,9 @@ Here are some ideas to get you started:
     <p>常用语言：</p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janerubbishtoeat&layout=compact" />
     <p>一周内语言使用：</p>
-    <a href="https://github.com/JANERUBBISHTOEAT"><img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/c5013d43-d596-461b-b2b5-1cb8ed29b428.png" /></a>
+    <img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/c5013d43-d596-461b-b2b5-1cb8ed29b428.png" />
+    <p>一月内语言使用：</p>
+    <img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/f8f62afa-ef6e-4426-96cd-ed8df09377e2.svg" />
   </div>
   <br/>
   <div>
