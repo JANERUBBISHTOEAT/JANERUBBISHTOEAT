@@ -53,11 +53,19 @@ Here are some ideas to get you started:
 
   <div>
     <p>常用语言：</p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janerubbishtoeat&layout=compact" />
+    <a href="https://wakatime.com/@JANERUBBISHTOEAT">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janerubbishtoeat&layout=compact" />
+    </a>
+    <br/> <br/>
     <p>一周内语言使用：</p>
-    <img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/c5013d43-d596-461b-b2b5-1cb8ed29b428.png" />
+    <a href="https://wakatime.com/@JANERUBBISHTOEAT">
+      <img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/9bf46318-3dc7-4f51-a8b4-a14886602a82.svg">
+    </a>
+    <br/> <br/>
     <p>一月内语言使用：</p>
-    <img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/f8f62afa-ef6e-4426-96cd-ed8df09377e2.svg" />
+    <a href="https://wakatime.com/@JANERUBBISHTOEAT">
+      <img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/f8f62afa-ef6e-4426-96cd-ed8df09377e2.svg" />
+    </a>
   </div>
   <br/>
   <div>
