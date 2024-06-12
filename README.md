@@ -59,12 +59,12 @@ Here are some ideas to get you started:
     <br/> <br/>
     <p>一周内语言使用：</p>
     <a href="https://wakatime.com/@JANERUBBISHTOEAT">
-      <img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/9bf46318-3dc7-4f51-a8b4-a14886602a82.svg">
+      <img width="70%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/9bf46318-3dc7-4f51-a8b4-a14886602a82.svg">
     </a>
     <br/> <br/>
     <p>一月内语言使用：</p>
     <a href="https://wakatime.com/@JANERUBBISHTOEAT">
-      <img width="50%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/f8f62afa-ef6e-4426-96cd-ed8df09377e2.svg" />
+      <img width="70%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/f8f62afa-ef6e-4426-96cd-ed8df09377e2.svg" />
     </a>
   </div>
   <br/>
