@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/JANERUBBISHTOEAT">
-  <img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=JANERUBBISHTOEAT&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ef8539" />
-</a>
+<img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=JANERUBBISHTOEAT&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ef8539" />
 
 > Zheyuan Wei
 
@@ -33,9 +31,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <div>
-    <a href="https://github.com/JANERUBBISHTOEAT">
-      <img align="left" src="https://streak-stats.demolab.com/?user=JANERUBBISHTOEAT&theme=vue&count_private=true" />
-    </a>
+    <img align="left" src="https://streak-stats.demolab.com/?user=JANERUBBISHTOEAT&theme=vue&count_private=true" />
     <p>凑数用的标签：</p>
     <img src="https://img.shields.io/badge/dynamic/json?color=41b883&label=GitHub&query=%24.data.totalSubs&suffix=followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DJANERUBBISHTOEAT" />
     <br/>
@@ -58,12 +54,12 @@ Here are some ideas to get you started:
     </a>
     <br/> <br/>
     <p>一周内语言使用：</p>
-    <a href="https://wakatime.com/@JANERUBBISHTOEAT">
+    <a href="https://wakatime.com/share/@JANERUBBISHTOEAT/9bf46318-3dc7-4f51-a8b4-a14886602a82.svg">
       <img width="70%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/9bf46318-3dc7-4f51-a8b4-a14886602a82.svg">
     </a>
     <br/> <br/>
     <p>一月内语言使用：</p>
-    <a href="https://wakatime.com/@JANERUBBISHTOEAT">
+    <a href="https://wakatime.com/share/@JANERUBBISHTOEAT/f8f62afa-ef6e-4426-96cd-ed8df09377e2.svg">
       <img width="70%" src="https://wakatime.com/share/@JANERUBBISHTOEAT/f8f62afa-ef6e-4426-96cd-ed8df09377e2.svg" />
     </a>
   </div>
@@ -77,7 +73,7 @@ Here are some ideas to get you started:
 ---
 
 <div>
-  <a href="https://github.com/JANERUBBISHTOEAT">
+  <a href="https://wakatime.com/@JANERUBBISHTOEAT">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JANERUBBISHTOEAT&theme=minimal" />
   </a>
   
