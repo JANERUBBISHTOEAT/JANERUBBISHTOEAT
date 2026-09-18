@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <div>
     <p>常用语言：</p>
     <a href="https://wakatime.com/@JANERUBBISHTOEAT">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janerubbishtoeat&layout=compact" />
+      <img src="https://github-readme-stats-azmiao.vercel.app/api/top-langs/?username=janerubbishtoeat&layout=compact" alt="Most used languages on GitHub" />
     </a>
     <br/> <br/>
     <p>一周内语言使用：</p>
@@ -71,15 +71,15 @@ Here are some ideas to get you started:
   <br/>
   <div>
     <p>一些勋章：</p>
-    <img src="https://github-profile-trophy.vercel.app/?username=JANERUBBISHTOEAT&theme=flat&no-frame=true&margin-w=30&count_private=true" />
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=JANERUBBISHTOEAT&theme=flat&no-frame=true&margin-w=30" alt="JANERUBBISHTOEAT GitHub trophies" />
   </div>
 </div>
 
 ---
 
 <div>
-  <a href="https://wakatime.com/@JANERUBBISHTOEAT">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JANERUBBISHTOEAT&theme=minimal" />
+  <a href="https://github.com/JANERUBBISHTOEAT">
+    <img src="https://activity-graph-hftzl.ondigitalocean.app/graph?username=JANERUBBISHTOEAT&theme=minimal" alt="JANERUBBISHTOEAT GitHub contribution activity graph" />
   </a>
   
 </div>
